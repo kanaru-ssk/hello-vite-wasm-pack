@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.5.0",
+    "wasm-pack": "^0.12.1"
+  }
 }
